@@ -56,6 +56,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/soyambuilds/soyambuilds/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/soyambuilds/soyambuilds/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
